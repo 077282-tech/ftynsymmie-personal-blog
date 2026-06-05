@@ -157,7 +157,7 @@ button{
     position: relative;
     background-image:
         linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.70)),
-        url("image/homepage.jpeg");
+        url("homepage.jpeg");
     background-size: cover;
     background-position: center;
     min-height: 520px;
@@ -945,7 +945,7 @@ nav a.active{
     min-height: 420px;
     background:
         linear-gradient(rgba(80,0,15,0.45), rgba(80,0,15,0.65)),
-        url("image/homepage.jpeg");
+        url("homepage.jpeg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -1079,7 +1079,7 @@ nav a.active{
     min-height: 430px;
     background:
         linear-gradient(rgba(90,0,15,0.45), rgba(90,0,15,0.7)),
-        url("image/homepage.jpeg");
+        url("homepage.jpeg");
     background-size: cover;
     background-position: center;
     text-align: center;
