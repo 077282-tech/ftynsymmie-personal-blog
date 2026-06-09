@@ -54,6 +54,10 @@ Fatin E-Portfolio is a personal portfolio website developed for the CSD34203 Per
 
 ![Portfolio Page](ssblogpage.png)
 
+### Contact Page
+
+![Contact Page](sscontactpage.png)
+
 ---
 
 ## How to Run the Project
