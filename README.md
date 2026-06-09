@@ -44,15 +44,15 @@ Fatin E-Portfolio is a personal portfolio website developed for the CSD34203 Per
 
 ### Home Page
 
-![Home Page](ss homepage.png)
+![Home Page](ss-homepage.png)
 
 ### About Page
 
-![About Page](ss aboutpage.png)
+![About Page](ss-aboutpage.png)
 
-### Portfolio Page
+### Blog Page
 
-![Portfolio Page](VR%20project.png)
+![Portfolio Page](ss-blogpage.png)
 
 ---
 
