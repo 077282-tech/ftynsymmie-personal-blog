@@ -44,7 +44,7 @@ Fatin E-Portfolio is a personal portfolio website developed for the CSD34203 Per
 
 ### Home Page
 
-![Home Page](ss-homepage.png)
+![Home Page](sshomepage.png)
 
 ### About Page
 
@@ -52,7 +52,7 @@ Fatin E-Portfolio is a personal portfolio website developed for the CSD34203 Per
 
 ### Blog Page
 
-![Portfolio Page](ss-blogpage.png)
+![Portfolio Page](ssblogpage.png)
 
 ---
 
